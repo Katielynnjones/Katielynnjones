@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Katie Lynn
+- 👀 I’m interested in pickleball and reading...
+- 🌱 I’m currently learning javascript, HTML, and CSS with front/backend development...
+- 📫 How to reach me katielynnj17@gmail.com...
+
+<!---
+Katielynnjones/Katielynnjones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
